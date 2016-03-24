@@ -76,4 +76,10 @@ img {
     width: 180px;
     height: 300px;
     display: inline-block;
+    margin-left: 10px;
+}
+#Mainbody p {
+    font-size: 14px;
+    margin-top: 150px;
+    font-family: 'Amita', cursive;
 }
