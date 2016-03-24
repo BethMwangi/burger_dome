@@ -39,8 +39,15 @@
 
 h3 {
     font-family: 'Aclonica', sans-serif;
+    color: aliceblue;
+    padding-left: 10px;
+    font-size: 50px;
+    position: absolute;
+    z-index: 2;
 }
 img {
     width: 600px;
     height: 400px;
+    position: absolute;
+    z-index: 1;
 }
