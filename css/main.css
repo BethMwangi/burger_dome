@@ -64,22 +64,27 @@ img {
 #Mainbody {
     width: 600px;
     height: 300px;
-    margin: 0 auto;
+    margin-left: 25px;
+    color: #333;
 }
-#Mainbody img {
-    width: 160px;
-    height: 110px;
-}
-.body1,
-.body2,
-.body3 {
+.section {
     width: 180px;
     height: 300px;
     display: inline-block;
-    margin-left: 10px;
 }
-#Mainbody p {
-    font-size: 14px;
-    margin-top: 150px;
-    font-family: 'Amita', cursive;
+.section img {
+    width: 180px;
+    height: 150px;
+}
+.header {
+    width: 150px;
+    font-family: 'Aclonica', sans-serif;
+    color: saddlebrown;
+    text-align: center;
+    margin-top: 160px;
+}
+.section-content {
+    color: black;
+    text-align: center;
+    font-family: font-family: 'Roboto Condensed', sans-serif;
 }
