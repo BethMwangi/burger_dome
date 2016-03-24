@@ -88,3 +88,14 @@ img {
     text-align: center;
     font-family: font-family: 'Roboto Condensed', sans-serif;
 }
+
+/*End of Mainbody part */
+
+
+/*The Footer part */
+
+#footer {
+    width: 600px;
+    height: 400px;
+    background-color: bisque;
+}
