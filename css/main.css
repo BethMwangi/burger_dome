@@ -7,4 +7,18 @@
     width: 600px;
     height: 80px;
     background-color: blanchedalmond;
+    font-family: 'Aclonica', sans-serif;
+}
+.navbar-list ul {
+    text-decoration: none;
+    float: left;
+    margin-top: 30px;
+}
+.navbar-list li {
+    display: inline-block;
+}
+.navbar-list li a {
+    text-decoration: none;
+    color: black;
+    padding: 0 15px;
 }
