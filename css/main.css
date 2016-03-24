@@ -37,6 +37,10 @@
 
 /*The content part */
 
+#content {
+    width: 600px;
+    height: 400px;
+}
 h3 {
     font-family: 'Aclonica', sans-serif;
     color: aliceblue;
@@ -50,4 +54,26 @@ img {
     height: 400px;
     position: absolute;
     z-index: 1;
+}
+
+/*The end of content part */
+
+
+/*The Mainbody part */
+
+#Mainbody {
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+}
+#Mainbody img {
+    width: 160px;
+    height: 110px;
+}
+.body1,
+.body2,
+.body3 {
+    width: 180px;
+    height: 300px;
+    display: inline-block;
 }
