@@ -3,6 +3,9 @@
     height: auto;
     margin: 0 auto;
 }
+
+/*the Navigation bar */
+
 #navbar {
     width: 600px;
     height: 80px;
@@ -22,3 +25,11 @@
     color: black;
     padding: 0 15px;
 }
+.fa-ul li {
+    margin-top: 10px;
+    display: inline-block;
+    float: right;
+    padding: 8px;
+}
+
+/*End of the Navigation bar */
