@@ -10,6 +10,8 @@
 //
 //   var map = new google.maps.Map(documentGetElementById("map-// canvas"), mapOptions);
 // }
+var map;
+
 function initMap() {
     var mapDiv = document.getElementById('map-canvas');
     var map = new google.maps.Map(mapDiv, {
