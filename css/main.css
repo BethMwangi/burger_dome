@@ -180,8 +180,12 @@ input {
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
 }
-#map-canvas {
+#googlMap {
     width: 260px;
-    height: 350px;
+    height: 400px;
     border: 2px solid black;
+}
+#gmap_canvas img {
+    max-width: none;
+    background: none;
 }
