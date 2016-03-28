@@ -20,6 +20,9 @@
 .navbar-list li {
     display: inline-block;
 }
+.navbar-list li a:hover {
+    color: brown;
+}
 .navbar-list li a {
     text-decoration: none;
     color: black;
