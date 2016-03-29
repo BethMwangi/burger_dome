@@ -34,6 +34,9 @@
     float: right;
     padding: 8px;
 }
+.fa-ul li a:hover {
+    color: snow;
+}
 
 /*End of the Navigation bar */
 
@@ -71,6 +74,7 @@ img {
     color: #333;
 }
 .section {
+    padding-top: 20px;
     width: 180px;
     height: 300px;
     display: inline-block;
@@ -158,7 +162,6 @@ textarea:focus {
     color: snow;
     font: 'Roboto Condensed', sans-serif;
 }
-.name {}
 
 /* Box shadow effect */
 
